@@ -37,6 +37,19 @@
   }
 }
 
-.Body {
+body {
   color: lightskyblue;
+}
+
+.proj-link {
+  text-decoration: none;
+  font-size: larger;
+  color: lightskyblue;
+  margin-bottom: 10px;
+  display: block;
+
+}
+
+.proj-link:visited {
+  color:lightskyblue;
 }
