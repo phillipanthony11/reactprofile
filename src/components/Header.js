@@ -5,6 +5,7 @@ import "../styles/Header.css";
 function Header({ currentPage, handlePageChange }) {
   const [page, setPage] = useState("AboutMe");
   return (
+    <div className="header">
     <ul className="nav nav-tabs">
       <li className="nav-item" id="AboutMePage">
         <Link
@@ -43,6 +44,7 @@ function Header({ currentPage, handlePageChange }) {
         </Link>
       </li>
     </ul>
+    </div>
   );
 }
 

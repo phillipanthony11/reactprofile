@@ -6,3 +6,9 @@ ul {
     color: white;
     background-color: black;
 }
+
+.header {
+    background-color: greenyellow;
+    border-bottom:20px solid yellowgreen;
+    border-top: 20px solid darkgreen;
+}
