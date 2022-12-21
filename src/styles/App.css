@@ -66,3 +66,36 @@ body {
   color:black;
   
 }
+
+img {
+width: 500px;
+height: 300px;
+margin: 20px;
+border: solid 10px darkgreen
+}
+
+.under-api-app {
+  margin-bottom: 30vh;
+}
+
+a {
+  margin: 30px;
+  font-size: x-large;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.aboutmewords {
+  margin-bottom: 30vh;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: larger;
+}
+
+h3 {
+  font-size: xx-large;
+}
+
+
+.aboutmeimage {
+  height: 300px;
+  width: fit-content;
+}

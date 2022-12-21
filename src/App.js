@@ -5,6 +5,7 @@ import Portfolio from "./pages/Portfolio";
 import Resume from "./pages/Resume";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
+import ContactForm from "./pages/ContactForm";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {

@@ -4,7 +4,7 @@ import "../styles/App.css"
 function Footer() {
   return (
     <div className="footer">
-    <p>All customer email and credit card information is subject to resale via the Chinese government</p>
+    <p>Thanks for checking it out</p>
   </div>
   )
 }
